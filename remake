@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "### Start making project..."
+echo ""
+make
+echo ""
+echo "### Done!"
+echo "### Cleaning..."
+echo ""
+make clean
+echo ""
+echo "### Finished!"
